@@ -1,0 +1,15 @@
+
+’
+java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ç–ÈŞıÿÿÿÿ8¢¬Øä¡/
+’
+java:S1319"uThe type of the "city_iddto" object should be an interface such as "List" rather than the implementation "ArrayList".(ÈÌú€8£¬Øä¡/
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²¢Úé8£¬Øä¡/
+
+java:S1319"rThe type of the "cityDto" object should be an interface such as "List" rather than the implementation "ArrayList".(ìä¹‡8¤¬Øä¡/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÌú€8¥¬Øä¡/
+,
+java:S1700"Rename field "cityDto"(äìªá
+o	java:S116"URename this field "city_iddto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÕ İıÿÿÿÿ
+o	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç–ÈŞıÿÿÿÿ8©¬Øä¡/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÌú€8ª¬Øä¡/

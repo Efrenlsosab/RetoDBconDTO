@@ -1,0 +1,30 @@
+
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†ÖœÅ
+†
+java:S13190"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¦¤Ÿñ
+†
+java:S1319]"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Çô¡‡
+E
+java:S3740"/Provide the parametrized type for this generic.(†ÖœÅ
+E
+java:S37400"/Provide the parametrized type for this generic.(¦¤Ÿñ
+E
+java:S3740]"/Provide the parametrized type for this generic.(Çô¡‡
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÛõğøÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü×“ûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ™ø
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é“ÀÕûÿÿÿÿ
+k	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö”ãÑüÿÿÿÿ
+k	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÖƒÒıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'connection.ConnectionDb'.(ß·½¹
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+A
+java:S1168+"+Return an empty collection instead of null.(¥¹ï
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+A
+java:S1168Y"+Return an empty collection instead of null.(¥¹ï
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+A
+java:S1168t"+Return an empty collection instead of null.(¥¹ï

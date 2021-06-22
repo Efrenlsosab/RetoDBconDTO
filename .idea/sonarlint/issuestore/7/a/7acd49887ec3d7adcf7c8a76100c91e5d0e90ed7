@@ -1,0 +1,19 @@
+
+
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(šô¸Ç8…Ì°ù¡/
+’
+java:S1319"vThe type of the "actor_idDto" object should be an interface such as "List" rather than the implementation "ArrayList".(©¹ºf8†Ì°ù¡/
+Œ
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(³¥ğ8‡Ì°ù¡/
+’
+java:S1319"uThe type of the "film_idDto" object should be an interface such as "List" rather than the implementation "ArrayList".(Ş’ı¨8‡Ì°ù¡/
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¹ºf8Ì°ù¡/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş’ı¨8Ì°ù¡/
+k	java:S116"VRename this field "actor_idDto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òß¨’
+o	java:S116"URename this field "film_idDto" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‡ãƒøÿÿÿÿ
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šô¸Ç8–Ì°ù¡/
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¹ºf8—Ì°ù¡/
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³¥ğ8™Ì°ù¡/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş’ı¨8œÌ°ù¡/
